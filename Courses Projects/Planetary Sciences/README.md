@@ -12,7 +12,7 @@ En algunos de los talleres también fui bastante creativo, aunque estos eran má
 Con el proyecto final fui ambicioso (mi don y mi maldición) y decidí hacer algo muy complejo, de lo cual me siento satisfecho,
 pero no espero volver a repetir por su dificultad para un nivel de pregrado. A continuación, listas para cada uno:
 
-## Tareas
+## Tasks
 
 1. **Finding Sun and Jupiter mass**
 
