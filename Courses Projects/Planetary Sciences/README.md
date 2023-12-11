@@ -18,4 +18,8 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 
 2. Jeans' Radii and Mass, and Sun's Nuclear Time
 
-3. 
+3. Minimum Mass Solar Nebula and Viscous Time
+
+4. Isolation Mass
+
+5. 
