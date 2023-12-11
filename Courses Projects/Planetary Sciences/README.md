@@ -14,4 +14,6 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 
 ## Tareas
 
-1. 
+1. **Finding Sun and Jupiter mass**
+
+2. 
