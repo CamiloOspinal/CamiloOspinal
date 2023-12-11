@@ -27,3 +27,7 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 6. Preliminary Reference Earth Model
 
 7. Herschel Crater Impactor Size on Mars
+
+8. Tidal Locking Time of the Moon, Titan and Enceladus
+
+9. Using Palermo Scale
