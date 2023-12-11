@@ -14,6 +14,8 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 
 ## Tasks
 
-1. **Finding Sun and Jupiter mass**
+1. Finding Sun and Jupiter mass
 
-2. 
+2. Jeans' Radii and Mass, and Sun's Nuclear Time
+
+3. 
