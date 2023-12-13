@@ -9,9 +9,9 @@ in several events, and I was one of the three official representative at the ina
 on Alzheimer's and brain studies. My contribution for them was to be a sort of "scientific assessor", because they need to improve their knowledge in the MRI physics,
 so I studied the topic and gave a couple of talks for the group members (doctors, bioengineers, among others). I like so much neuroscience, therefore I was happy there
 interweaving it with physics.
+* CODEAC: I was a speaker at the First Aerospace Development Congress of Colombia (CODEAC) in October 2023, organized by the Aerospace Engineering undergraduate program at the University of Antioquia. On that occasion, I gave a talk about space nuclear propulsion, focusing particularly on pulse nuclear propulsion, as well as nuclear thermal and electric propulsion. Additionally, I wrote an article for this purpose, which was considered by the congress organizers to be submitted to the journal 'Ciencia y Poder Aéreo,' a doctoral-level publication by the Colombian Air Force. (Sadly I am not a doctor, so this subtracted points :c).
 
-Currently, I'm interested in too many things at the moment, I have to be honest, I like too many topics to choose only one, but I have been exploring 
-planetary sciencie branch, so I will be working on that for a while. The only thing I know is that I would like to specialize in theoretical astronomy.
+Currently, I'm interested in too many things at the moment, I have to be honest, I like too many topics to choose only one, but I have been exploring planetary sciencie branch, so I will be working on that for a while. The only thing I know is that I would like to specialize in theoretical astronomy.
 
 Someone told me that it could be a good idea to upload my courses projects and tasks here, maybe it could be of help for someone and maybe you can build some
 better works with this. Also is a kind of academic diary for me.
