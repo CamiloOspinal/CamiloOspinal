@@ -34,7 +34,10 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 
 ## Problems Sets
 
-* About 
-* About
+* About magnetospheres, crater impacts, the asteroid Apophis and more.
+* About exoplanets detection techniques
 
 ## Final Project
+
+This project course was about exoplanets. We had to choose one exoplanetary system with radial velocity and photometry data, 
+analyzing it and make deductions about the radii and mass of the planet. I, as a personal challenge, decided to choose 55 Cancri system with five exoplanets.
