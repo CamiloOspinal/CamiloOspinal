@@ -34,8 +34,8 @@ pero no espero volver a repetir por su dificultad para un nivel de pregrado. A c
 
 ## Problems Sets
 
-* About magnetospheres, crater impacts, the asteroid Apophis and more.
-* About exoplanets detection techniques
+* **Problem set 2:** About magnetospheres, crater impacts, the asteroid Apophis and more.
+* **Problem set 4:** About exoplanets detection techniques
 
 ## Final Project
 
