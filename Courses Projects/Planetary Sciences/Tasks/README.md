@@ -13,4 +13,6 @@ Here I give a brief description about the content of the tasks. My favorite task
 
 6. **Task 6:** Here I wrote my research on the Preliminary Reference Earth Model. This assignment is one of my favorites, not because its elaboration was in-depth, but because it was closely related to the second set of problems, thus it was extremely helpful. I highly recommend taking a look at that problem set.
 
-7. 
+7. **Taks 7:** Here I chose the Herschel crater on Mars, using its diameter I found the size of the impactor by applying an empirical model. I liked this assignment because, although it was simple, I feel that as the tasks and the semester progressed, I became more comfortable with them and felt more freedom in developing them.
+
+8. 
