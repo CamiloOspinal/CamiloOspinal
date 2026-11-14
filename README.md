@@ -1,4 +1,6 @@
-👋 Hi, I’m @CamiloOspinal, a future (I hope) astronomer with soul of physicist, studying at University of Antioquia, and this is a litle bit about me.
+**Note: This is an old text. All my GitHub is planned to be updated in the next few weeks.**
+
+👋 Hi, I’m @CamiloOspinal, a future astronomer with soul of physicist, studying at University of Antioquia, and this is a litle bit about me.
 
 My passion is learning about everything, I consider it the most invaluable gift of a scientist. That's why I'm drawn to nearly every topic in physics, 
 astronomy, and other branches. Equally fascinating to me is the possibility of teaching what I've learned. This has led me to be part of:
